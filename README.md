@@ -17,6 +17,6 @@ This repository contains all of the source code used in the course called HTML, 
 # Outputs :
 
 * [Module 2 Output](https://vanshksingh.github.io/Web-tech-coursera/Assignments/module-2/index.html)
-* [Module 3 Output](https://vanshksingh.github.io/Web-tech-coursera/Assignments/module-2/index.html)
-* [Module 4 Output](https://vanshksingh.github.io/Web-tech-coursera/Assignments/module-2/index.html)
-* [Module 5 Output](https://vanshksingh.github.io/Web-tech-coursera/Assignments/module-2/index.html)
+* [Module 3 Output](https://vanshksingh.github.io/Web-tech-coursera/Assignments/module-3/index.html)
+* [Module 4 Output](https://vanshksingh.github.io/Web-tech-coursera/Assignments/module-4/index.html)
+* [Module 5 Output](https://vanshksingh.github.io/Web-tech-coursera/Assignments/module-5/index.html)
